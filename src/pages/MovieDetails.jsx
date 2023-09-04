@@ -19,7 +19,7 @@ export const MovieDetails = () => {
       setMovie(json)
     }
     fetchMovie()
-  }, [])
+  }, [id])
 
   useDocumentTitle(`${movie?.title} | Movies`)
 
