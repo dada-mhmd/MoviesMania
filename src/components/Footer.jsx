@@ -24,7 +24,11 @@ export const Footer = () => {
             </a>
           </li>
           <li>
-            <a href='#' target='_blank' className='mr-4 md:mr-6'>
+            <a
+              href='https://www.linkedin.com/in/mohammad-aldada-0912a7207'
+              target='_blank'
+              className='mr-4 md:mr-6'
+            >
               <FaLinkedin />
             </a>
           </li>
